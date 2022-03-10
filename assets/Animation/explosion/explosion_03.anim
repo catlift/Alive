@@ -1,0 +1,177 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "explosion_03",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.8,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "de878fc4-0606-4824-9d00-802791855f12"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "b2c03849-0c76-4602-85e7-62602e41d1f2"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "55347917-4990-4fec-ac46-28936b2f81a0"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "d51ffbe0-f892-4f9d-8e30-c9efc61a0a4e"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "dc767c96-1641-4b8f-9a84-278e896e4b85"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "dd6609f8-62a7-4005-b134-ecefb6e017c0"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "d49677ba-1b6a-46ad-ae2c-0b4eb780d79f"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "a5913189-5f9f-41b3-9113-5488cb0101a9"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "ffa31bc4-bcbe-42ce-813e-354755ee1d0f"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "4cdc3fc7-7076-4d8d-b6a3-b97fc4d88332"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "552e44c9-6068-406c-b2c6-50de8eb34a1a"
+            }
+          },
+          {
+            "frame": 2.2,
+            "value": {
+              "__uuid__": "547fae0e-acbc-4e85-b4f9-2271bf811e3e"
+            }
+          },
+          {
+            "frame": 2.4,
+            "value": {
+              "__uuid__": "2f9be829-a29d-4c69-8c4a-d065c7ac5e20"
+            }
+          },
+          {
+            "frame": 2.6,
+            "value": {
+              "__uuid__": "31176c0b-48c4-4afe-ad9b-a66c89345ee1"
+            }
+          },
+          {
+            "frame": 2.8,
+            "value": {
+              "__uuid__": "d1f3c7ad-4da5-44d8-a01d-f98b8dfb8443"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "7b3f1583-7a10-4a6f-8ad5-7ad95df26167"
+            }
+          },
+          {
+            "frame": 3.2,
+            "value": {
+              "__uuid__": "81fbdbe5-1bc1-484b-9455-3f14413d670b"
+            }
+          },
+          {
+            "frame": 3.4,
+            "value": {
+              "__uuid__": "f0e5f04d-db8d-4e85-900a-b042ac2e9a89"
+            }
+          },
+          {
+            "frame": 3.6,
+            "value": {
+              "__uuid__": "4b335083-c4d4-4e5b-bf41-3fffcaa9559c"
+            }
+          },
+          {
+            "frame": 3.8,
+            "value": {
+              "__uuid__": "8c6b58ed-6328-442c-a9c1-e4a2b87c2bd6"
+            }
+          },
+          {
+            "frame": 4,
+            "value": {
+              "__uuid__": "b9b854db-f2ca-4648-8ace-0b67494e1e56"
+            }
+          },
+          {
+            "frame": 4.2,
+            "value": {
+              "__uuid__": "ee047cd8-f857-48d9-bf41-2b8efac028b3"
+            }
+          },
+          {
+            "frame": 4.4,
+            "value": {
+              "__uuid__": "8f1edc4f-fe89-4971-9d89-61a0b0d992cb"
+            }
+          },
+          {
+            "frame": 4.6,
+            "value": {
+              "__uuid__": "09a15a2e-17c6-457c-88cd-35d26b22640d"
+            }
+          }
+        ]
+      },
+      "cc.CircleCollider": {
+        "radius": [
+          {
+            "frame": 0,
+            "value": 400
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 4.6,
+      "func": "explosionFinished",
+      "params": []
+    }
+  ]
+}

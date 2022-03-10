@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "toRight",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0fd24406-b716-417a-8e0c-22fd55e19165"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "9152c5ab-8819-49c6-b2f9-1a62c03ce069"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "5948c871-2c2b-46bd-bc44-639eb8b4d04f"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "bde87467-a752-45b6-87ce-826806589055"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "e0bdeccd-0c9f-4532-a54e-029c18e42e6d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.4,
+      "func": "toRightAni",
+      "params": []
+    }
+  ]
+}

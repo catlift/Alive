@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "eBullet_01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "22901321-e091-4f67-b5ec-01c035cebc10"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "7fe7b24e-f65b-4dea-b577-b11ece569884"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

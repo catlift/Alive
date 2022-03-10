@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c004bff5-8bff-4e07-9344-e8330b4d2e11",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 16,
+  "height": 16,
+  "platformSettings": {},
+  "subMetas": {
+    "laser-bolts_01": {
+      "ver": "1.0.4",
+      "uuid": "bc9ed96b-b407-4132-bcc5-7c44bde1f4e8",
+      "rawTextureUuid": "c004bff5-8bff-4e07-9344-e8330b4d2e11",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 6,
+      "trimY": 2,
+      "width": 5,
+      "height": 13,
+      "rawWidth": 16,
+      "rawHeight": 16,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

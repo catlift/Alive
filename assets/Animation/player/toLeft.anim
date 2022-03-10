@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "toLeft",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0fd24406-b716-417a-8e0c-22fd55e19165"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "7429bd4b-a5f2-4a3c-8aa3-0d89f56f8fc2"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "dd7f893d-f284-4f68-8e2d-44ba253ff126"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "512d04d8-74ba-4c84-8f99-de546310596c"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "fa6659c3-3a46-4367-ab3b-400c3b17b115"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.4,
+      "func": "toLeftAni",
+      "params": []
+    }
+  ]
+}
